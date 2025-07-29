@@ -93,7 +93,7 @@ button:hover {
 .weather-card:hover {
   transform: scale(1.02);
   background-color: #bae6fd;
-}
+} 
 
 .weather-card h2 {
   margin-bottom: 12px;
